@@ -1,1 +1,1 @@
-# locks_semaphores
+# Class lectures 
